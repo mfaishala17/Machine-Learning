@@ -1,3 +1,3 @@
-Nama  : Muhammad Faishal Abdurrahman
-NIM   : 1103213015
+Nama  : Muhammad Faishal Abdurrahman /n
+NIM   : 1103213015 /n
 Kelas : TK-45-G05
